@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rattxt
 - 👀 I’m interested in robotics 
 - 🌱 I’m currently learning Arduino & C++ programming
-- 📫 How to reach me: gift a crow a wax-sealed, hand-written note, and something shiny and hope for the best.
+- 📫 How to reach me: gift a crow a wax-sealed, hand-written note and something shiny.  Then, hope for the best.
 
 -                _     __,..---""-._                 ';-,
         ,    _/_),-"`             '-.                `\\
